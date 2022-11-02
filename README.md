@@ -2,6 +2,7 @@
 
 ##### Szerző: Charaf Kamel
 ##### Konzulens: Dr. Horváth Gábor (HIT)
+##### Dolgozat: [Charaf_Kamel_F00Y6X_Anomalia_detektalas_logfajlokban.pdf](https://github.com/charafkamel/TDK_2022/files/9919457/Charaf_Kamel_F00Y6X_Anomalia_detektalas_logfajlokban.pdf)
 
 ## Github tartalma
 
